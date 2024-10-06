@@ -236,7 +236,7 @@ header{
 }
 
 .karya-img{
-    border-radius: 15px 15px 0px 0px;
+    border-radius: 15px 15px 15px 15px;
     width: 100%;
 }
 
@@ -247,6 +247,7 @@ header{
 }
 
 .karya-item{
+    padding: 15px;
     margin:10px;
     border-radius: 15px;
     /* background-color: rgb(15, 15, 15); */
